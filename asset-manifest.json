@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SnapGridView/static/css/main.243a964d.css",
+    "main.js": "/SnapGridView/static/js/main.e4ad0fb2.js",
+    "static/js/453.fb9f2c53.chunk.js": "/SnapGridView/static/js/453.fb9f2c53.chunk.js",
+    "index.html": "/SnapGridView/index.html",
+    "main.243a964d.css.map": "/SnapGridView/static/css/main.243a964d.css.map",
+    "main.e4ad0fb2.js.map": "/SnapGridView/static/js/main.e4ad0fb2.js.map",
+    "453.fb9f2c53.chunk.js.map": "/SnapGridView/static/js/453.fb9f2c53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243a964d.css",
+    "static/js/main.e4ad0fb2.js"
+  ]
+}
